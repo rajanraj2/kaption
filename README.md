@@ -4,6 +4,8 @@ KAPTION is a deep learning project that generates natural language captions for 
 
 ---
 
+![web app screenshot](kaption.png)
+
 ## **Project Structure**
 
 ```
